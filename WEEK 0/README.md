@@ -68,8 +68,8 @@ Ngspice is a mixed-level/mixed-signal circuit simulator.
 Download from [Ngspice SourceForge](https://sourceforge.net/projects/ngspice/files/).  
 
 ```bash
-tar -zxvf ngspice-37.tar.gz
-cd ngspice-37
+tar -zxvf ngspice-45.2.tar.gz
+cd ngspice-45.2
 mkdir release
 cd release
 ../configure --with-x --with-readline=yes --disable-debug
