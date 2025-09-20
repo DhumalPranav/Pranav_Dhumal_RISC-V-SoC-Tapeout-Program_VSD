@@ -163,3 +163,5 @@ make test
 Once all the tools are installed, you should be ready to begin working with open-source VLSI flows!
 
 ---
+
+WEEK 0/Screenshots/Installation Screenshot.png
