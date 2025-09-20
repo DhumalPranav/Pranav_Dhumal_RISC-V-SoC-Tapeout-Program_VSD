@@ -165,6 +165,6 @@ Once all the tools are installed, you should be ready to begin working with open
 ---
 ## 🖼️ Installation Screenshot
 
-![Installation Screenshot]Pranav_Dhumal_RISC-V-SoC-Tapeout-Program_VSD/WEEK 0
-/Installation Screenshot.png)
+![Installation Screenshot](Installation%20Screenshot.png)
+
 
