@@ -1,2 +1,2 @@
-# Pranav_Dhuaml_RISC-V-SoC-Tapeout-Program_VSD
+# Pranav_Dhumal_RISC-V-SoC-Tapeout-Program_VSD
 RISK-V SoC Tapeout Program with VSD &amp; IIT Gandhinagar
