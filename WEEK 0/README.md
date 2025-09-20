@@ -166,6 +166,6 @@ Once all the tools are installed, you should be ready to begin working with open
 ## 🖼️ Installation Screenshot
 
 
-![Alt Text](Screenshots/Installation Screenshot.png)
+![Alt Text](Screenshots/Installation_Screenshot.png)
 
 
