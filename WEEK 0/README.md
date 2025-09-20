@@ -165,6 +165,5 @@ Once all the tools are installed, you should be ready to begin working with open
 ---
 ## 🖼️ Installation Screenshot
 
-![Installation Screenshot](WEEK%200/WEEK%200/Screenshots/Installation%20Screenshot.png
-)
+![Installation Screenshot](WEEK 0/Installation Screenshot.png)
 
